@@ -1,4 +1,3 @@
-<script>
         const quizData = [
             {
                 questionText: '"Yüz bin yedi yüz yirmi beş" doğal sayısının rakamlarla yazılışı aşağıdakilerden hangisidir?',
@@ -334,4 +333,3 @@ Doğru cevap: ${correctOptionLetter}) ${correctOptionText}`;
 
         window.addEventListener('resize', setBackgroundImage);
         setBackgroundImage(); // İlk yüklemede ayarla
-    </script>
